@@ -193,7 +193,7 @@ Ini mengindikasikan masalah serius pada User Experience (UX) atau kepercayaan di
 <table border="0" width="100%">
   <tr>
     <td width="60%" align="center">
-      <img src="pictt/region/trrv.png" width="100%" alt="Total Regional Revenue">
+      <img src="pictt/Region/trrv.png" width="100%" alt="Total Regional Revenue">
     </td>
     <td width="40%" valign="top">
       <h3> Macro Performance</h3>
@@ -214,7 +214,7 @@ Ini mengindikasikan masalah serius pada User Experience (UX) atau kepercayaan di
       <img src="pictt/Region/Most R.png" width="100%" alt="Regional Trend Time Series">
     </td>
     <td width="50%" align="center">
-      <img src="pictt/region/t4rp.png" width="100%" alt="Top 4 Product Region">
+      <img src="pictt/Region/t4rp.png" width="100%" alt="Top 4 Product Region">
     </td>
   </tr>
   
