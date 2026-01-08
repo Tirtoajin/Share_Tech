@@ -1,0 +1,9 @@
+table,kolom,issue,row count,Magnitude,solvable,resolution
+Share_orders1,PURCHASE_TS,blanks,20,0.03%,N,dibiarkan apa adanya - volume rendah dan tidak ada cara
+ordersShare_orders1,PRODUCT_NAME,"inconsistent spelling between "" 27inches 4k gaming monitor""and ""27in 4k gaming""13",13270,21.39%,Y,dikategorikan ulang ke ejaan yang benar
+Share_orders1,MARKETING_CHANNEL,"blanks, missing marketing channel",223,0.36%,Y,dikategorikan ulang menjadi “unknown”
+Share_orders1,ACCOUNT_CREATION_METHOD,"blanks, missing account creation method",223,0.36%,Y,dikategorikan ulang menjadi “unknown”
+Share_orders1,COUNTRY_CODE,"blanks, missing country code",106,0.17%,N,"dibiarkan apa adanya - volume rendah, tidak ada cara untuk menyimpulkan; perlu dicek dengan stakeholder"
+Share_orders1,SHIP_TS,ship timestamps before the purchase time,5769,9.30%,N,dibiarkan apa adanya - perlu ditandai untuk analisis lanjutan pada tanggal pengiriman
+region,REGION,"inconsisten or nonsensical values, missing values",11,0.02%,Y,diisi dengan mencari nilai yang benar
+Share_orders1,all,duplicate within order id,154,0.25%,Y,"dibiarkan apa adanya - duplikat bisa dihapus jika diperlukan, tetapi volumenya rendah"
