@@ -1,6 +1,6 @@
 <h1 align="center">ShareTech Sales Performance Analysis (2019-2021)</h1>
 
-Analisis mengenai performa penjualan ShareTech untuk mengidentifikasi pendorong utama pendapatan, efisiensi operasional, dan perilaku pengguna lintas platform. **[Dasboard Tableau](https://public.tableau.com/app/profile/tirto.aji.nugroho/viz/ShareTechDashboard/Dashboard1?publish=yes)**.
+Analisis mengenai performa penjualan ShareTech untuk mengidentifikasi pendorong utama pendapatan, efisiensi operasional, dan perilaku pengguna lintas platform. **[Dasboard Tableau](https://public.tableau.com/app/profile/tirto.aji.nugroho/viz/ShareTechDashboard/Dashboard1?publish=yes)** dan **[Data Excel](https://docs.google.com/spreadsheets/d/1oCeecq9g6KnYOof6pjFGc4aUnI8f8lu4NspdWZ2yn2g/edit?usp=sharing)**
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/Aji121/Admin-Page/main/Dashboard 1.png"
